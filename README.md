@@ -1,4 +1,4 @@
-#Happy Numbers
+# Happy Numbers
 
 Start with main.js and view results in the console.
 
